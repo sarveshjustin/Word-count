@@ -30,5 +30,6 @@ print("The number of words are in the file is ",num)
 ![output](./t2.png)
 ![output](./t1.png)
 
+
 ## RESULT:
 Thus the program is written to find the word count from a text.
