@@ -18,6 +18,11 @@ Step 5: Process count+=len(word) End loop
 Step 6: Print the value of count,which has the number of words in the file.
 
 ## Program:
+
+Developed by:sarvesh.s
+
+RegisterNumber: 22003029
+
 ```
 num=0
 with open("git.txt","r") as f1:
